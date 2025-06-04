@@ -37,14 +37,14 @@ Dự án xây dựng hệ thống giám sát các yếu tố thời tiết ảnh
 
 ## 📸 Hình ảnh minh họa
 
-### 1. Sơ đồ hệ thống giám sát
-![Sơ đồ hệ thống](images/sodo_he_thong.png)
+### 1. Sơ đồ hoạt động hệ thống
+![Sơ đồ hệ thống](images/hoat_dong.png)
 
 ### 2. Phần cứng thực tế
-![Phần cứng thực tế](images/phan_cung_thuc_te.jpg)
+![Phần cứng thực tế](images/phan_cung.jpg)
 
 ### 3. Giao diện phần mềm Tkinter
-![Giao diện Tkinter](images/giao_dien_tkinter.png)
+![Giao diện](images/giao_dien.png)
 
 > ✅ Cài nhanh tất cả bằng lệnh:
 ```bash
