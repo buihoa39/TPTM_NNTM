@@ -33,18 +33,19 @@ Dự án xây dựng hệ thống giám sát các yếu tố thời tiết ảnh
 - Học máy (`scikit-learn`)
 - Giao diện (`tkinter`)
 
+---
+
+## 📸 Hình ảnh minh họa
+
+### 1. Sơ đồ hệ thống giám sát
+![Sơ đồ hệ thống](images/sodo_he_thong.png)
+
+### 2. Phần cứng thực tế
+![Phần cứng thực tế](images/phan_cung_thuc_te.jpg)
+
+### 3. Giao diện phần mềm Tkinter
+![Giao diện Tkinter](images/giao_dien_tkinter.png)
+
 > ✅ Cài nhanh tất cả bằng lệnh:
 ```bash
 pip install pandas numpy scikit-learn pyserial
-
-Hình 1: Sơ đồ hệ thống kết nối cảm biến
-
-![Sơ đồ hệ thống](Ảnh phần cứng.jpg)
-
-### Hình 2: Mô hình triển khai thực tế
-
-![Mô hình thực tế](images/mo_hinh_thucte.jpg)
-
-### Hình 3: Giao diện phần mềm Tkinter
-
-![Giao diện](images/giao_dien_phanmem.png)
